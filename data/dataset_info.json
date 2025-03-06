@@ -38,6 +38,20 @@
       "assistant_tag": "assistant"
     }
   },
+  "r1_onevision_w_system": {
+    "file_name": "R1-Onevision-with-System-sharegpt-refine.json",
+    "formatting": "sharegpt",
+    "columns": {
+      "messages": "messages",
+      "images": "images"
+    },
+    "tags": {
+      "role_tag": "role",
+      "content_tag": "content",
+      "user_tag": "human",
+      "assistant_tag": "assistant"
+    }
+  },
   "mllm_audio_demo": {
     "file_name": "mllm_audio_demo.json",
     "formatting": "sharegpt",
